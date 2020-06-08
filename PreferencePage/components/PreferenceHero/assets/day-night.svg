@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="59px" viewBox="0 0 107 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>day-night</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Job-Preferences-V1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="job-preferences" transform="translate(-1029.000000, -182.000000)">
+            <g id="luca-micheli-799250-unsplash" transform="translate(24.000000, 69.000000)">
+                <g id="Group-10" transform="translate(987.000000, 71.000000)">
+                    <g id="day-night" transform="translate(19.000000, 42.000000)">
+                        <g id="sun" transform="translate(0.000000, 5.000000)">
+                            <ellipse id="Oval" fill="#FF8300" fill-rule="nonzero" cx="28.5" cy="27" rx="24.5" ry="24"></ellipse>
+                            <circle id="Oval" stroke="#001548" stroke-width="2" cx="24" cy="24" r="24"></circle>
+                            <path d="M39.5882973,53 L4.19947216,53 C3.80626481,51.7674034 3.72761926,49.3026194 6.55871627,49.3026194 C8.57560551,49.3026194 9.61464745,49.8094854 10.0810268,50.2819876 C9.40616866,48.8963903 9.38781435,46.6889257 11.867036,46.1047412 C14.441422,45.4976475 16.2469301,46.2483327 17.6636048,48.0552955 C16.8318153,46.4385609 18.1966156,44.0924138 21.881049,44.0032315 C26.0097875,43.9034129 28.9075609,46.1362413 28.6126248,47.9018858 C34.5872999,42.8066352 41.81109,47.7791579 39.5882973,53 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <path d="M2,52.7999991 L4.1,52.7999991 M40.0999881,52.7999991 L4.1,52.7999991 M40.0999881,52.7999991 C42.3611683,47.6951763 35.0126238,42.8331545 28.9347663,47.8151768 C28.2562243,48 26.2869782,43.9055593 22.0869366,44.0031597 C17.8869366,44.1007602 18.3321706,48.5 18.1999822,48.5007799 C18.0677938,48.5015597 14.7695386,45.407566 11.8999822,46.0579689 C9.03046733,46.7079718 10.504733,50.6503895 10.4,50.6503895 C10.295267,50.6503895 9.37998218,49.1847829 6.49998812,49.1847829 C3.61999822,49.1847829 3.70000198,51.5947937 4.1,52.7999991 M40.0999881,52.7999991 L44,52.7999991" id="Shape" stroke="#BFC4D1" stroke-width="2" stroke-linecap="round"></path>
+                        </g>
+                        <g id="Group-11" transform="translate(51.000000, 0.000000)">
+                            <circle id="Oval" fill="#6660AA" cx="30" cy="27" r="22"></circle>
+                            <circle id="Oval" fill="#FFFFFF" cx="21.5" cy="21.5" r="21.5"></circle>
+                            <circle id="Oval" fill="#808AA3" cx="34.5" cy="1.5" r="1"></circle>
+                            <circle id="Oval-Copy-4" fill="#808AA3" cx="15.5" cy="35.5" r="1"></circle>
+                            <circle id="Oval-Copy-8" fill="#808AA3" cx="31" cy="23" r="1"></circle>
+                            <circle id="Oval-Copy-7" fill="#808AA3" cx="48" cy="51" r="1"></circle>
+                            <circle id="Oval-Copy-10" fill="#808AA3" cx="15" cy="55" r="1"></circle>
+                            <circle id="Oval-Copy-5" fill="#808AA3" cx="12" cy="16" r="1"></circle>
+                            <circle id="Oval-Copy-11" fill="#808AA3" cx="28.5" cy="32.5" r="1.5"></circle>
+                            <circle id="Oval-Copy-9" fill="#808AA3" cx="24" cy="7" r="1"></circle>
+                            <circle id="Oval-Copy-6" fill="#808AA3" cx="53.5" cy="9.5" r="1.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
